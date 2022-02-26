@@ -1,5 +1,7 @@
-# https://www.sourcecodester.com/tutorials/python/11417/python-simple-inventory-system.html
+# commit 02/26/22
+# 11:55 # https://www.sourcecodester.com/tutorials/python/11417/python-simple-inventory-system.html
 # Simple Inventory System in Python Tutorial
+
 
 from tkinter import *
 import tkinter.messagebox as tkMessageBox
